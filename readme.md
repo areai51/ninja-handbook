@@ -7,7 +7,8 @@
 </head>
 <body>
 
-	<div class="container">
+
+<div class="container">
 
 <div class="row">
 	<h1>Coding Guidelines</h1>
