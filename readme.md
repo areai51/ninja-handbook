@@ -1,6 +1,5 @@
 <html>
-<head>
-	<title>Coding Guidelines</title>
+
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
